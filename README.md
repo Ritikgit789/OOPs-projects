@@ -38,10 +38,15 @@ Real-Time Statistics – Displays the number of patients in each specialization.
 Search Functionality – Quickly locate a patient in any specialization queue.
 Better UI with Icons & Colors – A visually appealing and intuitive experience.
 
-!
+## 📸 Screenshots  
+
+### 🏥 Home Page  
+![Home Page](Images/Frontend.png)  
 
 
+Check out the images for fast understanding about this project!! 
 
+https://github.com/Ritikgit789/OOPs-projects/tree/f25b6317908c868371b70111518daeb94edd57cf/Images
 
 🤝 Contributing
 Contributions are welcome! If you have ideas or improvements, feel free to open an issue or submit a pull request.
