@@ -38,7 +38,7 @@ Real-Time Statistics – Displays the number of patients in each specialization.
 Search Functionality – Quickly locate a patient in any specialization queue.
 Better UI with Icons & Colors – A visually appealing and intuitive experience.
 
-
+!
 
 
 
