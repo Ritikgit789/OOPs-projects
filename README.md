@@ -29,7 +29,7 @@ OperationsManager Class: Handles adding, removing, listing, and retrieving patie
 This system allows hospitals to prioritize urgent cases and maintain a structured patient queue.
 
 
-Streamlit Web App (Interactive UI)
+Streamlit Web App (Interactive UI): 
 A user-friendly web interface was built using Streamlit to enhance accessibility. This version provides:
 
 Sidebar Navigation – Users can easily switch between actions.
