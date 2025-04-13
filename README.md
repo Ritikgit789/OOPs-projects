@@ -10,6 +10,7 @@ Specialization – Manages queues for different hospital specializations.
 OperationsManager – Handles patient queue operations (adding, removing, and retrieving).
 This project ensures priority-based patient handling, providing an efficient workflow for hospitals.
 
+
 -- Features
 ✅ Command-Line & Web-Based System – Works both as a CLI tool and an interactive web app.
 ✅ Patient Prioritization – Supports urgency levels (Normal, Urgent, Super-Urgent).
